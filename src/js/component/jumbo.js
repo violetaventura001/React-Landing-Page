@@ -8,7 +8,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 //create your first component
 export function Jumbo() {
 	return (
-		<Jumbotron fluid>
+		<Jumbotron fluid className="mt-5">
 			<Container>
 				<h1>Hola, Mi Gente!</h1>
 				<p>

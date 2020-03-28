@@ -12,7 +12,7 @@ export function CardTitle() {
 	return (
 		<CardDeck>
 			<Card>
-				<Card.Img variant="top" src="holder.js/100px160" />
+				<Card.Img variant="top" src="https://placehold.it/300x300" />
 				<Card.Body>
 					<Card.Title>Card title</Card.Title>
 					<Card.Text>
@@ -26,7 +26,7 @@ export function CardTitle() {
 				</Card.Footer>
 			</Card>
 			<Card>
-				<Card.Img variant="top" src="holder.js/100px160" />
+				<Card.Img variant="top" src="https://placehold.it/300x300" />
 				<Card.Body>
 					<Card.Title>Card title</Card.Title>
 					<Card.Text>
@@ -39,7 +39,7 @@ export function CardTitle() {
 				</Card.Footer>
 			</Card>
 			<Card>
-				<Card.Img variant="top" src="holder.js/100px160" />
+				<Card.Img variant="top" src="https://placehold.it/300x300" />
 				<Card.Body>
 					<Card.Title>Card title</Card.Title>
 					<Card.Text>
@@ -54,7 +54,7 @@ export function CardTitle() {
 				</Card.Footer>
 			</Card>
 			<Card>
-				<Card.Img variant="top" src="holder.js/100px160" />
+				<Card.Img variant="top" src="https://placehold.it/300x300" />
 				<Card.Body>
 					<Card.Title>Card title</Card.Title>
 					<Card.Text>
