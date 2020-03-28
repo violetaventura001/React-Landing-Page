@@ -6,13 +6,20 @@ import rigoImage from "../../img/rigo-baby.jpg";
 import { Jumbo } from "./jumbo";
 import { CardTitle } from "./CardTitle";
 import { Footer } from "./footer";
+import Container from "react-bootstrap/Container";
 //create your first component
 export const Home = () => {
 	return (
 		<div>
-			<Jumbo />
-			<CardTitle />
-			<Footer />
+			<Container>
+				<Jumbo />
+			</Container>
+			<Container>
+				<CardTitle />
+			</Container>
+			<Container fluid>
+				<Footer />
+			</Container>
 		</div>
 	);
 };
