@@ -12,8 +12,10 @@ export function Jumbo() {
 			<Container>
 				<h1>Hola, Mi Gente!</h1>
 				<p>
-					This is a modified jumbotron that occupies the entire
-					horizontal space of its parent.
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+					Ipsa, ipsam, eligendi, in quo sunt possimus non incidunt
+					odit vero aliquid similique quaerat nam nobis illo
+					aspernatur vitae fugiat numquam repellat.
 				</p>
 				<p>
 					<Button variant="primary">Learn more</Button>
